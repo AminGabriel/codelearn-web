@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@200&display=swap');
+
+body{
+ background-color: blanchedalmond;
+}
+
+#menu-superior li a{
+   text-decoration: none;
+   font-size: 17px;
+}
+#menu-superior li{
+   display: inline;
+   padding-left:10px;
+   padding-right: 25px;
+   font-family: 'Exo', sans-serif;
+}
+
+
+#btnLogar{
+   margin-top:20px;
+   width: 480px;
+   
+}
+
+
+#senha{
+   
+   margin-top:10px;
+
+}
+
+#menu-lateral{
+   background:#edeef0;
+   border-radius: 10px; 
+   height:700px;
+
+}
+#menu-lateral ul li a{
+   text-decoration: none;
+   color:#fefefe;
+   font-family: 'Exo', sans-serif;
+}
